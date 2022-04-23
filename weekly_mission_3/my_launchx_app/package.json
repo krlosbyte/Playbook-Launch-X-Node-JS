@@ -1,15 +1,11 @@
 {
-  "name": "my_first_js_project",
+  "name": "my_launchx_app",
   "version": "1.0.0",
-  "description": "Live 1 Semana 3",
+  "description": "Live 1 semana 3",
   "main": "index.js",
   "scripts": {
-    "test": "node ./node_modules/.bin/jest",
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "carlogilmar",
-  "license": "ISC",
-  "devDependencies": {
-    "jest": "^27.5.1"
-  }
+  "author": "krlosbyte",
+  "license": "ISC"
 }
